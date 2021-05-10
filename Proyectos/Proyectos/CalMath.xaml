@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.CalMath">
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            WidthRequest="300">
+            <Image Source="abaco2.png"/>
+            <Label Text="Calculos Matemáticos" 
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#DB255D"></Label>
+            <Entry Placeholder="Ingrese un numero"
+                   FontSize="15"
+                   x:Name="Numero"
+                   Keyboard="Numeric"></Entry>
+
+            <Entry Placeholder="Su resultado es:"
+                   FontSize="15" 
+                   x:Name="Res"
+                   IsEnabled="False"></Entry>
+
+            <Picker x:Name="PicOpe"
+                    Title="Seleciona la Operacion"
+                    TitleColor="Green"
+                    FontAttributes="Italic"
+                    FontSize="18"
+                    SelectedIndexChanged="PicOpe_SelectedIndexChanged"></Picker> 
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:proyectos="clr-namespace:Proyectos"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            x:Class="Proyectos.TabbedMain">
+  <!--Pages can be added as references or inline-->
+    <proyectos:Home Title="Home" IconImageSource="home.png"></proyectos:Home>
+    <proyectos:Area Title="Area" IconImageSource="educacion.png"></proyectos:Area>
+    <proyectos:Grados Title="Grados" IconImageSource="celsius.png"></proyectos:Grados>
+    <proyectos:Hipotenusa Title="Hipo" IconImageSource="triangulo.png"></proyectos:Hipotenusa>
+    <proyectos:CalMath Title="CalMath" IconImageSource="abaco.png"></proyectos:CalMath>
+    <proyectos:About Title="About" IconImageSource="About.png"></proyectos:About>
+</TabbedPage>

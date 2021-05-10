@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.Grados"
+             Visual="Material">
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            WidthRequest="300">
+            <Image Source="fahrenheit.png"/>
+            <Label Text="Convierte Grados Fahrenheit a Centígrados" 
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#DB255D"></Label>
+            <Entry Placeholder="Grados Fahrenheit"
+                   FontSize="15"
+                   x:Name="Grados_"
+                   Keyboard="Numeric"></Entry>
+
+            <Entry Placeholder="Grados Centigrados"
+                   FontSize="15" 
+                   x:Name="Centigrados_"
+                   IsEnabled="False"></Entry>
+
+            <Button Text="Convertir"
+                   FontSize="15" x:Name="Convertir" Clicked="Convertir_Clicked"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

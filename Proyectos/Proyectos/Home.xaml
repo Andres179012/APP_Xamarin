@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.Home"
+             Visual="Material">
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            WidthRequest="300">
+            <Label Text="Bienvenidos a mi Aplicacion en Xamarin" 
+                   FontSize="30"
+                   FontAttributes="Italic"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#DB255D"></Label>
+            <Label Text="By Nahum Andres Mercado Sanchez" 
+                   FontSize="20"
+                   FontAttributes="Italic"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

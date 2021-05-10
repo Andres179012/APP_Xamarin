@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.Area"
+             Visual="Material">
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            WidthRequest="300">
+            <Image Source="matematicas.png"/>
+            <Label Text="Calcula el Area" 
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#DB255D"></Label>
+            <Entry Placeholder="Ingrese la base"
+                   FontSize="15"
+                   x:Name="Base_"
+                   Keyboard="Numeric"></Entry>
+
+            <Entry Placeholder="Ingrese la Altura"
+                   FontSize="15" 
+                   x:Name="Altura_"
+                   Keyboard="Numeric"></Entry>
+
+            <Entry Placeholder="Tu resultado es: "
+                   FontSize="15" 
+                   x:Name="Area_"
+                   IsEnabled="False"></Entry>
+
+            <Button Text="Calcular"
+                   FontSize="15" x:Name="Calcular" Clicked="Calcular_Clicked"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.About"
+             Visual="Material">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Primera Tarea:" 
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#DB255D"></Label>
+            <Label Text="App que calcule el Area de un triangulo" 
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="App que convierta grados Fahrenheit a Centigrados" 
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="App que Calcule la Hipotenusa de un Triangulo Rectangulo" 
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Segunda Tarea:" 
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#DB255D"></Label>
+            <Label Text="Que calcule la factorial de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Que calcule el logaritmo de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Que calcule el seno de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Que calcule el coseno de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Que calcule la tangente de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+            <Label Text="Que calcule la secante de un numero entero"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Start"
+                   TextColor="#24345f"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
