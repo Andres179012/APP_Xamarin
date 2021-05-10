@@ -2187,11 +2187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\Proyectos\\Proyectos\\Proyectos.Android\\Proyectos.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Andres\\Desktop\\APP_Xamarin\\Proyectos\\Proyectos.Android\\Proyectos.Android.csproj",
       "projectName": "Proyectos.Android",
-      "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyectos\\Proyectos\\Proyectos.Android\\Proyectos.Android.csproj",
+      "projectPath": "C:\\Users\\Andres\\Desktop\\APP_Xamarin\\Proyectos\\Proyectos.Android\\Proyectos.Android.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\source\\repos\\Proyectos\\Proyectos\\Proyectos.Android\\obj\\",
+      "outputPath": "C:\\Users\\Andres\\Desktop\\APP_Xamarin\\Proyectos\\Proyectos.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2212,8 +2212,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Andres\\source\\repos\\Proyectos\\Proyectos\\Proyectos\\Proyectos.csproj": {
-              "projectPath": "C:\\Users\\Andres\\source\\repos\\Proyectos\\Proyectos\\Proyectos\\Proyectos.csproj"
+            "C:\\Users\\Andres\\Desktop\\APP_Xamarin\\Proyectos\\Proyectos\\Proyectos.csproj": {
+              "projectPath": "C:\\Users\\Andres\\Desktop\\APP_Xamarin\\Proyectos\\Proyectos\\Proyectos.csproj"
             }
           }
         }
