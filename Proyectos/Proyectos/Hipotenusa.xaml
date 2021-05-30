@@ -8,7 +8,7 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             WidthRequest="300">
-            <Image Source="matematicas.png"/>
+            <Image Source="hipotenusa.png"/>
             <Label Text="Calcula la hipotenusa de un triangulo rectangulo" 
                    FontSize="30"
                    FontAttributes="Bold"

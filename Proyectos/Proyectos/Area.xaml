@@ -8,12 +8,13 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             WidthRequest="300">
-            <Image Source="matematicas.png"/>
+            <Image Source="grafico.png"/>
             <Label Text="Calcula el Area" 
                    FontSize="30"
                    FontAttributes="Bold"
                    HorizontalTextAlignment="Center"
-                   TextColor="#DB255D"></Label>
+                   TextColor="#DB255D"
+                   FontFamily="Poppins"></Label>
             <Entry Placeholder="Ingrese la base"
                    FontSize="15"
                    x:Name="Base_"

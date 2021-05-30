@@ -44,7 +44,7 @@ namespace Proyectos
                 {
                     n = Convert.ToInt32(Numero.Text);
                     for (i = 1; i <= n; i++)
-                    {
+                    { 
                         fac = fac * i;
                         Res.Text = fac.ToString();
                     }

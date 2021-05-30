@@ -11,4 +11,5 @@
     <proyectos:Hipotenusa Title="Hipo" IconImageSource="triangulo.png"></proyectos:Hipotenusa>
     <proyectos:CalMath Title="CalMath" IconImageSource="abaco.png"></proyectos:CalMath>
     <proyectos:About Title="About" IconImageSource="About.png"></proyectos:About>
+    <proyectos:Numeros Title="Numeros" IconImageSource="About.png"></proyectos:Numeros>
 </TabbedPage>

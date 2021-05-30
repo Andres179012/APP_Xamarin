@@ -8,7 +8,7 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             WidthRequest="300">
-            <Image Source="fahrenheit.png"/>
+            <Image Source="temperatura.png"/>
             <Label Text="Convierte Grados Fahrenheit a Centígrados" 
                    FontSize="30"
                    FontAttributes="Bold"

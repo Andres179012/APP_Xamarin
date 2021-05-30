@@ -7,7 +7,7 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             WidthRequest="300">
-            <Image Source="abaco2.png"/>
+            <Image Source="pensar.png"/>
             <Label Text="Calculos Matemáticos" 
                    FontSize="30"
                    FontAttributes="Bold"
