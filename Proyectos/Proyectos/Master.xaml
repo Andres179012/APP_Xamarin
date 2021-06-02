@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyectos.Master"
+             Title="Master"
+             Background="#280a50">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="logoAndres.png"
+                   HorizontalOptions="FillAndExpand"
+                   HeightRequest="200"
+                   Background="#280a50"/>
+            <Button
+                Text="Area"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnArea"
+                Image="educacion.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnArea_Clicked"/>
+            <Button
+                Text="Grados"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnCelsius"
+                Image="celsius.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnCelsius_Clicked"/>
+            <Button
+                Text="Hipotenusa"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnTriangulo"
+                Image="triangulo.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnTriangulo_Clicked"/>
+            <Button
+                Text="Calculos Matematicos"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnCal"
+                Image="abaco.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnCal_Clicked"/>
+            <Button
+                Text="Numeros Primos"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnPrimos"
+                Image="numero.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnPrimos_Clicked"/>
+            <Button
+                Text="Numeros Perfectos"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnPerfectos"
+                Image="numero.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnPerfectos_Clicked"/>
+            <Button
+                Text="Numeros Amigos"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnAmigos"
+                Image="numero.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnAmigos_Clicked"/>
+            <Button
+                Text="Numeros Vampiros"
+                HorizontalOptions="FillAndExpand"
+                Background="black"
+                TextColor="White"
+                x:Name="btnVampiros"
+                Image="numero.png"
+                BorderColor="White"
+                BorderWidth=".1"
+                Clicked="btnVampiros_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

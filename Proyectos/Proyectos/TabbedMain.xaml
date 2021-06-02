@@ -12,4 +12,6 @@
     <proyectos:CalMath Title="CalMath" IconImageSource="abaco.png"></proyectos:CalMath>
     <proyectos:About Title="About" IconImageSource="About.png"></proyectos:About>
     <proyectos:Numeros Title="Numeros" IconImageSource="About.png"></proyectos:Numeros>
+    <proyectos:VistaNumerosPerfectos Title="Numeros" IconImageSource="About.png"></proyectos:VistaNumerosPerfectos>
+    <proyectos:VistaNumerosAmigos Title="Numeros" IconImageSource="About.png"></proyectos:VistaNumerosAmigos>
 </TabbedPage>

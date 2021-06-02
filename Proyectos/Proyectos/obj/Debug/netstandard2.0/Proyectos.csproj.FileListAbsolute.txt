@@ -32,7 +32,10 @@ C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Hipotenusa.xaml.g.cs
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Home.xaml.g.cs
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Numeros.xaml.g.cs
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\TabbedMain.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\VistaNumerosPerfectos.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\VistaNumerosPrimos.xaml.g.cs
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Proyectos.AssemblyInfoInputs.cache
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Proyectos.AssemblyInfo.cs
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Proyectos.csproj.CoreCompileInputs.cache
@@ -40,4 +43,7 @@ C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Proyectos.dll
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\ref\Proyectos.dll
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Proyectos.pdb
-C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Numeros.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\VistaNumerosAmigos.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\Master.xaml.g.cs
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos\obj\Debug\netstandard2.0\VistaNumerosVampiros.xaml.g.cs

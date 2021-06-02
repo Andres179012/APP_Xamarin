@@ -6,11 +6,12 @@ namespace Proyectos
 {
     public partial class App : Application
     {
+        public static MasterDetailPage MastDet { get; set; }
         public App()
         {
             InitializeComponent();
 
-            MainPage = new TabbedMain();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

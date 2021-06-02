@@ -1226,3 +1226,5 @@ C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\re
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\res\drawable\temperatura.png
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\res\drawable\hipotenusa.png
 C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\res\drawable\pensar.png
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\res\drawable\logoandres.png
+C:\Users\Andres\Desktop\APP_Xamarin\Proyectos\Proyectos.Android\obj\Debug\110\res\drawable\numero.png
